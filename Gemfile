@@ -16,6 +16,7 @@ gem "gravatar_image_tag"
 gem "devise"
 gem "bootstrap", "~> 4.4.1"
 gem "jquery-rails"
+gem "font-awesome-rails"
 
 gem "bootsnap", ">= 1.1.0", require: false
 
